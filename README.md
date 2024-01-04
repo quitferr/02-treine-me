@@ -32,6 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 A Treine.me é uma página do projeto do desafio da Rocketseat.
+- [Acesse o projeto em andamento, online](https://quitferr.github.io/02-treine-me/)
 
 
 ## :memo: Licença
